@@ -1,0 +1,12 @@
+C:\Users\dupla\OneDrive\Documents\repositories\webApi_course\webApi_course\ArticlesModels\bin\Debug\net6.0\ArticlesModels.deps.json
+C:\Users\dupla\OneDrive\Documents\repositories\webApi_course\webApi_course\ArticlesModels\bin\Debug\net6.0\ArticlesModels.dll
+C:\Users\dupla\OneDrive\Documents\repositories\webApi_course\webApi_course\ArticlesModels\bin\Debug\net6.0\ArticlesModels.pdb
+C:\Users\dupla\OneDrive\Documents\repositories\webApi_course\webApi_course\ArticlesModels\obj\Debug\net6.0\ArticlesModels.csproj.AssemblyReference.cache
+C:\Users\dupla\OneDrive\Documents\repositories\webApi_course\webApi_course\ArticlesModels\obj\Debug\net6.0\ArticlesModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dupla\OneDrive\Documents\repositories\webApi_course\webApi_course\ArticlesModels\obj\Debug\net6.0\ArticlesModels.AssemblyInfoInputs.cache
+C:\Users\dupla\OneDrive\Documents\repositories\webApi_course\webApi_course\ArticlesModels\obj\Debug\net6.0\ArticlesModels.AssemblyInfo.cs
+C:\Users\dupla\OneDrive\Documents\repositories\webApi_course\webApi_course\ArticlesModels\obj\Debug\net6.0\ArticlesModels.csproj.CoreCompileInputs.cache
+C:\Users\dupla\OneDrive\Documents\repositories\webApi_course\webApi_course\ArticlesModels\obj\Debug\net6.0\ArticlesModels.dll
+C:\Users\dupla\OneDrive\Documents\repositories\webApi_course\webApi_course\ArticlesModels\obj\Debug\net6.0\refint\ArticlesModels.dll
+C:\Users\dupla\OneDrive\Documents\repositories\webApi_course\webApi_course\ArticlesModels\obj\Debug\net6.0\ArticlesModels.pdb
+C:\Users\dupla\OneDrive\Documents\repositories\webApi_course\webApi_course\ArticlesModels\obj\Debug\net6.0\ref\ArticlesModels.dll

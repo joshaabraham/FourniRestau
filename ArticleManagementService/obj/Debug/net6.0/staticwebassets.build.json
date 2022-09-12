@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "couD0OJHLzNvYJ51yCdUBeK07fMFVyVl7RY9q6sEAQc=",
+  "Source": "ArticleManagementService",
+  "BasePath": "_content/ArticleManagementService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

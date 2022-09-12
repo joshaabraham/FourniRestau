@@ -1,0 +1,15 @@
+C:\Users\dupla\OneDrive\Documents\repositories\webApi_course\webApi_course\ArticleService\obj\Debug\net6.0\ArticleService.csproj.AssemblyReference.cache
+C:\Users\dupla\OneDrive\Documents\repositories\webApi_course\webApi_course\ArticleService\obj\Debug\net6.0\ArticleService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dupla\OneDrive\Documents\repositories\webApi_course\webApi_course\ArticleService\obj\Debug\net6.0\ArticleService.AssemblyInfoInputs.cache
+C:\Users\dupla\OneDrive\Documents\repositories\webApi_course\webApi_course\ArticleService\obj\Debug\net6.0\ArticleService.AssemblyInfo.cs
+C:\Users\dupla\OneDrive\Documents\repositories\webApi_course\webApi_course\ArticleService\obj\Debug\net6.0\ArticleService.csproj.CoreCompileInputs.cache
+C:\Users\dupla\OneDrive\Documents\repositories\webApi_course\webApi_course\ArticleService\bin\Debug\net6.0\ArticleService.deps.json
+C:\Users\dupla\OneDrive\Documents\repositories\webApi_course\webApi_course\ArticleService\bin\Debug\net6.0\ArticleService.dll
+C:\Users\dupla\OneDrive\Documents\repositories\webApi_course\webApi_course\ArticleService\bin\Debug\net6.0\ArticleService.pdb
+C:\Users\dupla\OneDrive\Documents\repositories\webApi_course\webApi_course\ArticleService\bin\Debug\net6.0\ArticlesModels.dll
+C:\Users\dupla\OneDrive\Documents\repositories\webApi_course\webApi_course\ArticleService\bin\Debug\net6.0\ArticlesModels.pdb
+C:\Users\dupla\OneDrive\Documents\repositories\webApi_course\webApi_course\ArticleService\obj\Debug\net6.0\ArticleService.csproj.CopyComplete
+C:\Users\dupla\OneDrive\Documents\repositories\webApi_course\webApi_course\ArticleService\obj\Debug\net6.0\ArticleService.dll
+C:\Users\dupla\OneDrive\Documents\repositories\webApi_course\webApi_course\ArticleService\obj\Debug\net6.0\refint\ArticleService.dll
+C:\Users\dupla\OneDrive\Documents\repositories\webApi_course\webApi_course\ArticleService\obj\Debug\net6.0\ArticleService.pdb
+C:\Users\dupla\OneDrive\Documents\repositories\webApi_course\webApi_course\ArticleService\obj\Debug\net6.0\ref\ArticleService.dll

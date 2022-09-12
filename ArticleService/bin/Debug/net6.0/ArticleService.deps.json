@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ArticleService/1.0.0": {
+        "dependencies": {
+          "ArticlesModels": "1.0.0"
+        },
+        "runtime": {
+          "ArticleService.dll": {}
+        }
+      },
+      "ArticlesModels/1.0.0": {
+        "runtime": {
+          "ArticlesModels.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ArticleService/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ArticlesModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
