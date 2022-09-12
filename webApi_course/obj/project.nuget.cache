@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VU/6Q1R1tFABpbKPEI5Rr/Kt8vFTUgXpKeH7/YiXBeaUSYSPu0OUJOtFcdBotIXtksMFCFkNOHVa8IuZXQgh8A==",
+  "dgSpecHash": "ReaQ+KZUKV811Lx7i1c4ENGEG2pLHj9PkoqZdBBsRKWk50zK6AklaHCdUb8BJKhGQ3EVLAvxfJppYa7CGwyASg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dupla\\OneDrive\\Documents\\repositories\\webApi_course\\webApi_course\\webApi_course\\webApi_course.csproj",
+  "projectFilePath": "C:\\Users\\dupla\\OneDrive\\Documents\\repositories\\fourniRestau\\FourniRestau\\webApi_course\\webApi_course.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dupla\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\dupla\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

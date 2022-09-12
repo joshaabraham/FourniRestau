@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VT5GckBIYlc/kLlXuT2yFWIlBbro8qJZZBfcW3oVAPwtjP7VVjOO3Yr+LF2cz7uP95DDeCjPEbbRhe0EqtZ+Bw==",
+  "dgSpecHash": "fbVWulBvVgXgr+wc9gEyCnfhKrnGRsu5izl2EtHAYqeG52SdDNnd3gA3VK2GI2QvcK3GX23TByLu0Q7U8+UaeA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dupla\\OneDrive\\Documents\\repositories\\webApi_course\\webApi_course\\PanierManagement\\PanierModels.csproj",
+  "projectFilePath": "C:\\Users\\dupla\\OneDrive\\Documents\\repositories\\fourniRestau\\FourniRestau\\PanierManagement\\PanierModels.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

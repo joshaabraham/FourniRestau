@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dupla\\OneDrive\\Documents\\repositories\\webApi_course\\webApi_course\\PanierManagement\\PanierModels.csproj": {}
+    "C:\\Users\\dupla\\OneDrive\\Documents\\repositories\\fourniRestau\\FourniRestau\\PanierManagement\\PanierModels.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dupla\\OneDrive\\Documents\\repositories\\webApi_course\\webApi_course\\PanierManagement\\PanierModels.csproj": {
+    "C:\\Users\\dupla\\OneDrive\\Documents\\repositories\\fourniRestau\\FourniRestau\\PanierManagement\\PanierModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dupla\\OneDrive\\Documents\\repositories\\webApi_course\\webApi_course\\PanierManagement\\PanierModels.csproj",
+        "projectUniqueName": "C:\\Users\\dupla\\OneDrive\\Documents\\repositories\\fourniRestau\\FourniRestau\\PanierManagement\\PanierModels.csproj",
         "projectName": "PanierModels",
-        "projectPath": "C:\\Users\\dupla\\OneDrive\\Documents\\repositories\\webApi_course\\webApi_course\\PanierManagement\\PanierModels.csproj",
+        "projectPath": "C:\\Users\\dupla\\OneDrive\\Documents\\repositories\\fourniRestau\\FourniRestau\\PanierManagement\\PanierModels.csproj",
         "packagesPath": "C:\\Users\\dupla\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dupla\\OneDrive\\Documents\\repositories\\webApi_course\\webApi_course\\PanierManagement\\obj\\",
+        "outputPath": "C:\\Users\\dupla\\OneDrive\\Documents\\repositories\\fourniRestau\\FourniRestau\\PanierManagement\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

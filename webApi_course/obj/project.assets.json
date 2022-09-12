@@ -2399,11 +2399,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dupla\\OneDrive\\Documents\\repositories\\webApi_course\\webApi_course\\webApi_course\\webApi_course.csproj",
+      "projectUniqueName": "C:\\Users\\dupla\\OneDrive\\Documents\\repositories\\fourniRestau\\FourniRestau\\webApi_course\\webApi_course.csproj",
       "projectName": "webApi_course",
-      "projectPath": "C:\\Users\\dupla\\OneDrive\\Documents\\repositories\\webApi_course\\webApi_course\\webApi_course\\webApi_course.csproj",
+      "projectPath": "C:\\Users\\dupla\\OneDrive\\Documents\\repositories\\fourniRestau\\FourniRestau\\webApi_course\\webApi_course.csproj",
       "packagesPath": "C:\\Users\\dupla\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dupla\\OneDrive\\Documents\\repositories\\webApi_course\\webApi_course\\webApi_course\\obj\\",
+      "outputPath": "C:\\Users\\dupla\\OneDrive\\Documents\\repositories\\fourniRestau\\FourniRestau\\webApi_course\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

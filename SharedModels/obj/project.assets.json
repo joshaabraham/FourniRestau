@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dupla\\OneDrive\\Documents\\repositories\\webApi_course\\webApi_course\\SharedModels\\SharedModels.csproj",
+      "projectUniqueName": "C:\\Users\\dupla\\OneDrive\\Documents\\repositories\\fourniRestau\\FourniRestau\\SharedModels\\SharedModels.csproj",
       "projectName": "SharedModels",
-      "projectPath": "C:\\Users\\dupla\\OneDrive\\Documents\\repositories\\webApi_course\\webApi_course\\SharedModels\\SharedModels.csproj",
+      "projectPath": "C:\\Users\\dupla\\OneDrive\\Documents\\repositories\\fourniRestau\\FourniRestau\\SharedModels\\SharedModels.csproj",
       "packagesPath": "C:\\Users\\dupla\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dupla\\OneDrive\\Documents\\repositories\\webApi_course\\webApi_course\\SharedModels\\obj\\",
+      "outputPath": "C:\\Users\\dupla\\OneDrive\\Documents\\repositories\\fourniRestau\\FourniRestau\\SharedModels\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

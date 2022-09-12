@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dupla\\OneDrive\\Documents\\repositories\\webApi_course\\webApi_course\\ArticlesClient\\ArticlesClient.csproj": {}
+    "C:\\Users\\dupla\\OneDrive\\Documents\\repositories\\fourniRestau\\FourniRestau\\ArticlesClient\\ArticlesClient.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dupla\\OneDrive\\Documents\\repositories\\webApi_course\\webApi_course\\ArticlesClient\\ArticlesClient.csproj": {
+    "C:\\Users\\dupla\\OneDrive\\Documents\\repositories\\fourniRestau\\FourniRestau\\ArticlesClient\\ArticlesClient.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dupla\\OneDrive\\Documents\\repositories\\webApi_course\\webApi_course\\ArticlesClient\\ArticlesClient.csproj",
+        "projectUniqueName": "C:\\Users\\dupla\\OneDrive\\Documents\\repositories\\fourniRestau\\FourniRestau\\ArticlesClient\\ArticlesClient.csproj",
         "projectName": "ArticlesClient",
-        "projectPath": "C:\\Users\\dupla\\OneDrive\\Documents\\repositories\\webApi_course\\webApi_course\\ArticlesClient\\ArticlesClient.csproj",
+        "projectPath": "C:\\Users\\dupla\\OneDrive\\Documents\\repositories\\fourniRestau\\FourniRestau\\ArticlesClient\\ArticlesClient.csproj",
         "packagesPath": "C:\\Users\\dupla\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dupla\\OneDrive\\Documents\\repositories\\webApi_course\\webApi_course\\ArticlesClient\\obj\\",
+        "outputPath": "C:\\Users\\dupla\\OneDrive\\Documents\\repositories\\fourniRestau\\FourniRestau\\ArticlesClient\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

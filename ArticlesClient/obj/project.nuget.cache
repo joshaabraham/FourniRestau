@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DAUfjdXfHykAn453oR9XkPmTvZHVwcS3jbRyH4fQt+3z/jIPiWIxI+zm6BD0+55yMQn929Ua7w6L5M37byLUVA==",
+  "dgSpecHash": "c/wEZ9qqdsDarrFycN7mtCiCx3MDpkRXzd3CCjqdkc9K2SUM/XRdKD5gwf0913PIVTQwAEkT0TQaIPHn6QFTKw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dupla\\OneDrive\\Documents\\repositories\\webApi_course\\webApi_course\\ArticlesClient\\ArticlesClient.csproj",
+  "projectFilePath": "C:\\Users\\dupla\\OneDrive\\Documents\\repositories\\fourniRestau\\FourniRestau\\ArticlesClient\\ArticlesClient.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

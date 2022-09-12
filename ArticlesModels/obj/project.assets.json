@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dupla\\OneDrive\\Documents\\repositories\\webApi_course\\webApi_course\\ArticlesModels\\ArticlesModels.csproj",
+      "projectUniqueName": "C:\\Users\\dupla\\OneDrive\\Documents\\repositories\\fourniRestau\\FourniRestau\\ArticlesModels\\ArticlesModels.csproj",
       "projectName": "ArticlesModels",
-      "projectPath": "C:\\Users\\dupla\\OneDrive\\Documents\\repositories\\webApi_course\\webApi_course\\ArticlesModels\\ArticlesModels.csproj",
+      "projectPath": "C:\\Users\\dupla\\OneDrive\\Documents\\repositories\\fourniRestau\\FourniRestau\\ArticlesModels\\ArticlesModels.csproj",
       "packagesPath": "C:\\Users\\dupla\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dupla\\OneDrive\\Documents\\repositories\\webApi_course\\webApi_course\\ArticlesModels\\obj\\",
+      "outputPath": "C:\\Users\\dupla\\OneDrive\\Documents\\repositories\\fourniRestau\\FourniRestau\\ArticlesModels\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
