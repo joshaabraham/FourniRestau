@@ -1,0 +1,12 @@
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\EtablissementModels\bin\Debug\net6.0\EtablissementModels.deps.json
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\EtablissementModels\bin\Debug\net6.0\EtablissementModels.dll
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\EtablissementModels\bin\Debug\net6.0\EtablissementModels.pdb
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\EtablissementModels\obj\Debug\net6.0\EtablissementModels.csproj.AssemblyReference.cache
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\EtablissementModels\obj\Debug\net6.0\EtablissementModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\EtablissementModels\obj\Debug\net6.0\EtablissementModels.AssemblyInfoInputs.cache
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\EtablissementModels\obj\Debug\net6.0\EtablissementModels.AssemblyInfo.cs
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\EtablissementModels\obj\Debug\net6.0\EtablissementModels.csproj.CoreCompileInputs.cache
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\EtablissementModels\obj\Debug\net6.0\EtablissementModels.dll
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\EtablissementModels\obj\Debug\net6.0\refint\EtablissementModels.dll
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\EtablissementModels\obj\Debug\net6.0\EtablissementModels.pdb
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\EtablissementModels\obj\Debug\net6.0\ref\EtablissementModels.dll

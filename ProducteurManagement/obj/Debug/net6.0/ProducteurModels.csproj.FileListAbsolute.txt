@@ -1,0 +1,12 @@
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\ProducteurManagement\bin\Debug\net6.0\ProducteurModels.deps.json
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\ProducteurManagement\bin\Debug\net6.0\ProducteurModels.dll
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\ProducteurManagement\bin\Debug\net6.0\ProducteurModels.pdb
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\ProducteurManagement\obj\Debug\net6.0\ProducteurModels.csproj.AssemblyReference.cache
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\ProducteurManagement\obj\Debug\net6.0\ProducteurModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\ProducteurManagement\obj\Debug\net6.0\ProducteurModels.AssemblyInfoInputs.cache
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\ProducteurManagement\obj\Debug\net6.0\ProducteurModels.AssemblyInfo.cs
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\ProducteurManagement\obj\Debug\net6.0\ProducteurModels.csproj.CoreCompileInputs.cache
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\ProducteurManagement\obj\Debug\net6.0\ProducteurModels.dll
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\ProducteurManagement\obj\Debug\net6.0\refint\ProducteurModels.dll
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\ProducteurManagement\obj\Debug\net6.0\ProducteurModels.pdb
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\ProducteurManagement\obj\Debug\net6.0\ref\ProducteurModels.dll

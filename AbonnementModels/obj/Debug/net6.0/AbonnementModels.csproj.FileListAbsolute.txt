@@ -1,0 +1,12 @@
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\AbonnementModels\bin\Debug\net6.0\AbonnementModels.deps.json
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\AbonnementModels\bin\Debug\net6.0\AbonnementModels.dll
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\AbonnementModels\bin\Debug\net6.0\AbonnementModels.pdb
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\AbonnementModels\obj\Debug\net6.0\AbonnementModels.csproj.AssemblyReference.cache
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\AbonnementModels\obj\Debug\net6.0\AbonnementModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\AbonnementModels\obj\Debug\net6.0\AbonnementModels.AssemblyInfoInputs.cache
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\AbonnementModels\obj\Debug\net6.0\AbonnementModels.AssemblyInfo.cs
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\AbonnementModels\obj\Debug\net6.0\AbonnementModels.csproj.CoreCompileInputs.cache
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\AbonnementModels\obj\Debug\net6.0\AbonnementModels.dll
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\AbonnementModels\obj\Debug\net6.0\refint\AbonnementModels.dll
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\AbonnementModels\obj\Debug\net6.0\AbonnementModels.pdb
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\AbonnementModels\obj\Debug\net6.0\ref\AbonnementModels.dll

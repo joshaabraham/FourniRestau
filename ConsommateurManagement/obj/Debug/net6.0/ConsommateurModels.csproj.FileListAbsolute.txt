@@ -1,0 +1,12 @@
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\ConsommateurManagement\bin\Debug\net6.0\ConsommateurModels.deps.json
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\ConsommateurManagement\bin\Debug\net6.0\ConsommateurModels.dll
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\ConsommateurManagement\bin\Debug\net6.0\ConsommateurModels.pdb
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\ConsommateurManagement\obj\Debug\net6.0\ConsommateurModels.csproj.AssemblyReference.cache
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\ConsommateurManagement\obj\Debug\net6.0\ConsommateurModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\ConsommateurManagement\obj\Debug\net6.0\ConsommateurModels.AssemblyInfoInputs.cache
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\ConsommateurManagement\obj\Debug\net6.0\ConsommateurModels.AssemblyInfo.cs
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\ConsommateurManagement\obj\Debug\net6.0\ConsommateurModels.csproj.CoreCompileInputs.cache
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\ConsommateurManagement\obj\Debug\net6.0\ConsommateurModels.dll
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\ConsommateurManagement\obj\Debug\net6.0\refint\ConsommateurModels.dll
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\ConsommateurManagement\obj\Debug\net6.0\ConsommateurModels.pdb
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\ConsommateurManagement\obj\Debug\net6.0\ref\ConsommateurModels.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3rVB1GoKObuYPddOcufsTvUiUXGbFbKvQ1MpNK5V8go=",
+  "Source": "PanierManagementApi",
+  "BasePath": "_content/PanierManagementApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

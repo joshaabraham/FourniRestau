@@ -1,7 +1,11 @@
 global using webApi_course.Contexts;
 global using Microsoft.EntityFrameworkCore;
+using Ocelot.DependencyInjection;
+using Ocelot.Middleware;
 
 var builder = WebApplication.CreateBuilder(args);
+
+builder.Configuration.AddJsonFile("Ocelot.json");
 
 // Add services to the container.
 
@@ -17,6 +21,8 @@ builder.Services.AddDbContext<ApplicationDBContext>(options =>  {
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+builder.Services.AddOcelot();
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -27,6 +33,8 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+
+app.UseOcelot().Wait();
 
 app.UseAuthorization();
 

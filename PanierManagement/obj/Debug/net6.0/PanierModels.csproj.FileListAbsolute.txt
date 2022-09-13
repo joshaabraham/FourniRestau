@@ -1,0 +1,12 @@
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\PanierManagement\bin\Debug\net6.0\PanierModels.deps.json
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\PanierManagement\bin\Debug\net6.0\PanierModels.dll
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\PanierManagement\bin\Debug\net6.0\PanierModels.pdb
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\PanierManagement\obj\Debug\net6.0\PanierModels.csproj.AssemblyReference.cache
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\PanierManagement\obj\Debug\net6.0\PanierModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\PanierManagement\obj\Debug\net6.0\PanierModels.AssemblyInfoInputs.cache
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\PanierManagement\obj\Debug\net6.0\PanierModels.AssemblyInfo.cs
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\PanierManagement\obj\Debug\net6.0\PanierModels.csproj.CoreCompileInputs.cache
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\PanierManagement\obj\Debug\net6.0\PanierModels.dll
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\PanierManagement\obj\Debug\net6.0\refint\PanierModels.dll
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\PanierManagement\obj\Debug\net6.0\PanierModels.pdb
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\PanierManagement\obj\Debug\net6.0\ref\PanierModels.dll

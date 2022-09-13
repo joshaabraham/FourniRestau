@@ -1,0 +1,12 @@
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\PaiementManagement\bin\Debug\net6.0\PaiementModels.deps.json
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\PaiementManagement\bin\Debug\net6.0\PaiementModels.dll
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\PaiementManagement\bin\Debug\net6.0\PaiementModels.pdb
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\PaiementManagement\obj\Debug\net6.0\PaiementModels.csproj.AssemblyReference.cache
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\PaiementManagement\obj\Debug\net6.0\PaiementModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\PaiementManagement\obj\Debug\net6.0\PaiementModels.AssemblyInfoInputs.cache
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\PaiementManagement\obj\Debug\net6.0\PaiementModels.AssemblyInfo.cs
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\PaiementManagement\obj\Debug\net6.0\PaiementModels.csproj.CoreCompileInputs.cache
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\PaiementManagement\obj\Debug\net6.0\PaiementModels.dll
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\PaiementManagement\obj\Debug\net6.0\refint\PaiementModels.dll
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\PaiementManagement\obj\Debug\net6.0\PaiementModels.pdb
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\PaiementManagement\obj\Debug\net6.0\ref\PaiementModels.dll

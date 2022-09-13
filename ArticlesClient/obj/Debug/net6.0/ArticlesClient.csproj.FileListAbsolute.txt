@@ -10,3 +10,15 @@ C:\Users\dupla\OneDrive\Documents\repositories\webApi_course\webApi_course\Artic
 C:\Users\dupla\OneDrive\Documents\repositories\webApi_course\webApi_course\ArticlesClient\obj\Debug\net6.0\refint\ArticlesClient.dll
 C:\Users\dupla\OneDrive\Documents\repositories\webApi_course\webApi_course\ArticlesClient\obj\Debug\net6.0\ArticlesClient.pdb
 C:\Users\dupla\OneDrive\Documents\repositories\webApi_course\webApi_course\ArticlesClient\obj\Debug\net6.0\ref\ArticlesClient.dll
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\ArticlesClient\bin\Debug\net6.0\ArticlesClient.deps.json
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\ArticlesClient\bin\Debug\net6.0\ArticlesClient.dll
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\ArticlesClient\bin\Debug\net6.0\ArticlesClient.pdb
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\ArticlesClient\obj\Debug\net6.0\ArticlesClient.csproj.AssemblyReference.cache
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\ArticlesClient\obj\Debug\net6.0\ArticlesClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\ArticlesClient\obj\Debug\net6.0\ArticlesClient.AssemblyInfoInputs.cache
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\ArticlesClient\obj\Debug\net6.0\ArticlesClient.AssemblyInfo.cs
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\ArticlesClient\obj\Debug\net6.0\ArticlesClient.csproj.CoreCompileInputs.cache
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\ArticlesClient\obj\Debug\net6.0\ArticlesClient.dll
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\ArticlesClient\obj\Debug\net6.0\refint\ArticlesClient.dll
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\ArticlesClient\obj\Debug\net6.0\ArticlesClient.pdb
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\ArticlesClient\obj\Debug\net6.0\ref\ArticlesClient.dll

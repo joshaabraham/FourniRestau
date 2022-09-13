@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "41jVtn9nUoZXFIUDwGYRTxXEYRaEo07kYvcFrTAwMTw=",
+  "Source": "SharedManagementApi",
+  "BasePath": "_content/SharedManagementApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
