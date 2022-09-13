@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using PaiementManagement;
 
 namespace PaiementManagementApi.Contexts
 {
@@ -8,5 +9,9 @@ namespace PaiementManagementApi.Contexts
         {
 
         }
+
+        public DbSet<AccountReceiver> AccountReceiver { get; set; }
+        public DbSet<AccountSender> AccountSender { get; set; }
+        public DbSet<Paiement> Paiements { get; set; }
     }
 }

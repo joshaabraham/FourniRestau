@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using PanierManagement;
 
 namespace PanierManagementApi.Contexts
 {
@@ -8,5 +9,9 @@ namespace PanierManagementApi.Contexts
         {
 
         }
+
+        public DbSet<ListDeProduitsSelectionnes> ListDeProduitsSelectionnes { get; set; }
+        public DbSet<Panier> Paniers { get; set; }
+        public DbSet<ListDeProduitsTotale> ListDeProduitsTotale { get; set; }
     }
 }

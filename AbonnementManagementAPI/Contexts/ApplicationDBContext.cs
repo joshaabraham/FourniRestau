@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using AbonnementModels;
+using Microsoft.EntityFrameworkCore;
 
 namespace AbonnementManagementAPI.Contexts
 {
@@ -8,5 +9,7 @@ namespace AbonnementManagementAPI.Contexts
         {
 
         }
+
+        public DbSet<Abonnement> Abonnements { get; set; }
     }
 }

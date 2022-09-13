@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using ArticlesModels;
+using Microsoft.EntityFrameworkCore;
 
 namespace ArticleManagementService.Contexts
 {
@@ -8,5 +9,9 @@ namespace ArticleManagementService.Contexts
         {
 
         }
+
+        public DbSet<Article> Articles { get; set; }
+        public DbSet<Author> Authors { get; set; }
+        public DbSet<MetaData> MetaDatas { get; set; }
     }
 }

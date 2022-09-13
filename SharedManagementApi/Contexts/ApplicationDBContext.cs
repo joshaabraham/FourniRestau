@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using SharedModels;
 
 namespace SharedManagementApi.Contexts
 {
@@ -8,5 +9,9 @@ namespace SharedManagementApi.Contexts
         {
 
         }
+
+        public DbSet<Adresse> Adresses { get; set; }
+        public DbSet<CodeQR> CodeQRs { get; set; }
+        public DbSet<CodeBar> CodeBars { get; set; }
     }
 }

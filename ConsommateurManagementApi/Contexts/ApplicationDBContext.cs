@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using ConsommateurManagement;
+using Microsoft.EntityFrameworkCore;
 
 namespace ConsommateurManagementApi.Contexts
 {
@@ -8,5 +9,10 @@ namespace ConsommateurManagementApi.Contexts
         {
 
         }
+
+        public DbSet<Consommateur> Consommateurs { get; set; }
+        public DbSet<ProduitsRecherches> ProduitsRecherches { get; set; }
+
+        public DbSet<StatisticConsommation> StatisticConsommation { get; set; }
     }
 }

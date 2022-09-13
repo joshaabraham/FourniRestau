@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using ConfigurationModels;
+using Microsoft.EntityFrameworkCore;
 
 namespace ConfigurationManagement.Contexts
 {
@@ -8,5 +9,14 @@ namespace ConfigurationManagement.Contexts
         {
 
         }
+
+        public DbSet<Configuration> Configurations { get; set; }
+        public DbSet<ConfigurationAlertes> ConfigurationAlertes { get; set; }
+        public DbSet<ConfigurationCommerciale> ConfigurationCommerciales { get; set; }
+        public DbSet<ConfigurationCompte> ConfigurationComptes { get; set; }
+        public DbSet<ConfigurationPagePresentoire> ConfigurationPagePresentoires { get; set; }
+        public DbSet<ConfigurationProfil> ConfigurationProfils { get; set; }
+        public DbSet<ConfigurationPublicitees> ConfigurationPublicitees { get; set; }
+        public DbSet<ConfigurationRecherche> ConfigurationRecherches { get; set; }
     }
 }
