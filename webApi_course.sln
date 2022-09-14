@@ -59,21 +59,27 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SharedModels", "SharedModel
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeneralModels", "GeneralModels\GeneralModels.csproj", "{04E7AEDE-240B-43DC-BECD-1633DE7A287C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConfigurationManagement", "ConfigurationManagement\ConfigurationManagement.csproj", "{50EEF521-EA74-408B-BC0C-7ED39C462110}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConfigurationManagement", "ConfigurationManagement\ConfigurationManagement.csproj", "{50EEF521-EA74-408B-BC0C-7ED39C462110}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsommateurManagementApi", "ConsommateurManagementApi\ConsommateurManagementApi.csproj", "{28B1D0A2-6662-4D7E-9BEC-BC7E55D33853}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsommateurManagementApi", "ConsommateurManagementApi\ConsommateurManagementApi.csproj", "{28B1D0A2-6662-4D7E-9BEC-BC7E55D33853}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EtablissementManagementApi", "EtablissementManagementApi\EtablissementManagementApi.csproj", "{BCBD97D9-1EE7-4148-86DC-41D01A310562}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EtablissementManagementApi", "EtablissementManagementApi\EtablissementManagementApi.csproj", "{BCBD97D9-1EE7-4148-86DC-41D01A310562}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaiementManagementApi", "PaiementManagementApi\PaiementManagementApi.csproj", "{AC7A45DF-C483-486D-B6FA-6CE9DA7CA9E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PaiementManagementApi", "PaiementManagementApi\PaiementManagementApi.csproj", "{AC7A45DF-C483-486D-B6FA-6CE9DA7CA9E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PanierManagementApi", "PanierManagementApi\PanierManagementApi.csproj", "{44B4CEED-1FFD-4646-809B-2D56B603637F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PanierManagementApi", "PanierManagementApi\PanierManagementApi.csproj", "{44B4CEED-1FFD-4646-809B-2D56B603637F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProducteurManagementApi", "ProducteurManagementApi\ProducteurManagementApi.csproj", "{D234689C-2D42-4A10-9003-AB19D267D7F4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProducteurManagementApi", "ProducteurManagementApi\ProducteurManagementApi.csproj", "{D234689C-2D42-4A10-9003-AB19D267D7F4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProduitManagementApi", "ProduitManagementApi\ProduitManagementApi.csproj", "{F0232655-C7F0-4BBE-B767-3C97220F3B19}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProduitManagementApi", "ProduitManagementApi\ProduitManagementApi.csproj", "{F0232655-C7F0-4BBE-B767-3C97220F3B19}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharedManagementApi", "SharedManagementApi\SharedManagementApi.csproj", "{C7C00D33-57B6-43D2-982C-A543A9459D32}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SharedManagementApi", "SharedManagementApi\SharedManagementApi.csproj", "{C7C00D33-57B6-43D2-982C-A543A9459D32}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CategorieManagement", "CategorieManagement", "{1429293B-A04A-4516-8A6F-A977702010E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CategorieModels", "CategorieModels\CategorieModels.csproj", "{152E251B-811B-4C60-833C-A3F666E4E7A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CategorieManagement", "CategorieManagement\CategorieManagement.csproj", "{C3AB0281-0669-48BB-A4C1-774B6ACE0EAF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -177,6 +183,14 @@ Global
 		{C7C00D33-57B6-43D2-982C-A543A9459D32}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7C00D33-57B6-43D2-982C-A543A9459D32}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7C00D33-57B6-43D2-982C-A543A9459D32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{152E251B-811B-4C60-833C-A3F666E4E7A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{152E251B-811B-4C60-833C-A3F666E4E7A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{152E251B-811B-4C60-833C-A3F666E4E7A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{152E251B-811B-4C60-833C-A3F666E4E7A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3AB0281-0669-48BB-A4C1-774B6ACE0EAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3AB0281-0669-48BB-A4C1-774B6ACE0EAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3AB0281-0669-48BB-A4C1-774B6ACE0EAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3AB0281-0669-48BB-A4C1-774B6ACE0EAF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -204,6 +218,8 @@ Global
 		{D234689C-2D42-4A10-9003-AB19D267D7F4} = {CD531E02-80D3-4B2E-87EC-93C4E5A88006}
 		{F0232655-C7F0-4BBE-B767-3C97220F3B19} = {875417DD-BCC5-4EAE-B798-C38B1EE815C8}
 		{C7C00D33-57B6-43D2-982C-A543A9459D32} = {5E30E3EE-ED0F-4794-8F4F-B58FD0D903F1}
+		{152E251B-811B-4C60-833C-A3F666E4E7A5} = {1429293B-A04A-4516-8A6F-A977702010E7}
+		{C3AB0281-0669-48BB-A4C1-774B6ACE0EAF} = {1429293B-A04A-4516-8A6F-A977702010E7}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {01F93777-A4F4-468E-A764-F124DFC86BDA}

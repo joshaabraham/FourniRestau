@@ -13,6 +13,9 @@
       "UpstreamHttpMethod": [ "Get", "Post" ]
     }
 
-  ]
+  ],
+    "GlobalConfiguration": {
+      "BaseUrl": "https://localhost:7021"
+    }
 
 }

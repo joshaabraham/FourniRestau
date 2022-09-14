@@ -1,0 +1,12 @@
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\CategorieModels\bin\Debug\net6.0\CategorieModels.deps.json
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\CategorieModels\bin\Debug\net6.0\CategorieModels.dll
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\CategorieModels\bin\Debug\net6.0\CategorieModels.pdb
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\CategorieModels\obj\Debug\net6.0\CategorieModels.csproj.AssemblyReference.cache
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\CategorieModels\obj\Debug\net6.0\CategorieModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\CategorieModels\obj\Debug\net6.0\CategorieModels.AssemblyInfoInputs.cache
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\CategorieModels\obj\Debug\net6.0\CategorieModels.AssemblyInfo.cs
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\CategorieModels\obj\Debug\net6.0\CategorieModels.csproj.CoreCompileInputs.cache
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\CategorieModels\obj\Debug\net6.0\CategorieModels.dll
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\CategorieModels\obj\Debug\net6.0\refint\CategorieModels.dll
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\CategorieModels\obj\Debug\net6.0\CategorieModels.pdb
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\CategorieModels\obj\Debug\net6.0\ref\CategorieModels.dll
