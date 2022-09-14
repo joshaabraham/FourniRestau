@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using CategorieModels;
+using Microsoft.EntityFrameworkCore;
 
 namespace CategorieManagement.Contexts
 {
@@ -10,7 +11,8 @@ namespace CategorieManagement.Contexts
 
         }
 
-
+        public DbSet<Categorie> Categories { get; set; }
+        public DbSet<Metadata> Metadatas { get; set; }
 
     }
 }
