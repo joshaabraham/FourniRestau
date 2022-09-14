@@ -95,12 +95,10 @@ namespace webApi_course.Controllers
 
                 return Ok(await _context.Users.ToListAsync());
             }
-            catch (Exception)
+            catch (Exception ex )
             {
-
-                throw;
+                throw ex;
             }
-
 
         }
 
