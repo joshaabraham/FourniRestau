@@ -2,7 +2,7 @@
 {
     public class PresentationEtablissement
     {
-        public Guid PresentationEtablissementID { get; set; }
+        public Guid ID { get; set; }
 
         public string TypeEtablissement { get; set; }
 

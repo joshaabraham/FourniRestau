@@ -2,7 +2,7 @@
 {
     public class TermsAffaires
     {
-        public Guid TermsAffairesID { get; set; }
+        public Guid ID { get; set; }
 
         public string DevisesAcceptees { get; set; }
 

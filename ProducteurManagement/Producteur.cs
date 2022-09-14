@@ -8,7 +8,7 @@ namespace ProducteurManagement
 {
     public class Producteur
     {
-        public Guid ProducteurGuid { get; set; }
+        public Guid ID { get; set; }
         public string NomDeFamille { get; set; }
         public string Prenom { get; set; }
         public PhotoProfile PhotoProfile { get; set; }

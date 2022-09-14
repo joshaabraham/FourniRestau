@@ -8,7 +8,7 @@ namespace ArticlesModels
 {
     public class Author
     {
-        public int AuthorID { get; set; }
+        public int ID { get; set; }
 
         public string Nom { get; set; }
 

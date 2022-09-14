@@ -3,7 +3,7 @@
     public class CompetenceCommerciale
     {
 
-        public Guid CompetenceCommercialeID { get; set; }
+        public Guid ID { get; set; }
 
         public string LangueParlees { get; set; }
 

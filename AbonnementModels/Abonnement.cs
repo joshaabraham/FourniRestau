@@ -8,7 +8,7 @@ namespace AbonnementModels
 {
     public class Abonnement
     {
-        public Guid AbonnementId { get; set; }
+        public Guid ID { get; set; }
 
         public string AbonnementName { get; set; }
 

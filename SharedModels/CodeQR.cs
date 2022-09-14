@@ -8,5 +8,6 @@ namespace SharedModels
 {
     public class CodeQR
     {
+        public Guid ID { get; set; }
     }
 }

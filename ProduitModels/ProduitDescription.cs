@@ -2,5 +2,6 @@
 {
     public class ProduitDescription
     {
+        public Guid ID { get; set; }
     }
 }

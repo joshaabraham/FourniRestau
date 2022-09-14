@@ -8,5 +8,8 @@ namespace SharedModels
 {
     public class Adresse
     {
+        public Guid ID { get; set; }
     }
+
+   
 }

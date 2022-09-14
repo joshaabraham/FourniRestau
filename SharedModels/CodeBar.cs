@@ -8,5 +8,6 @@ namespace SharedModels
 {
     public class CodeBar
     {
+        public Guid ID { get; set; }
     }
 }

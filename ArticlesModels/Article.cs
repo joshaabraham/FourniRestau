@@ -8,7 +8,7 @@ namespace ArticlesModels
 {
     public class Article
     {
-        public int ArticleID { get; set; }
+        public int ID { get; set; }
     
         public string Title { get; set; }
 

@@ -2,7 +2,7 @@
 {
     public class ProfilCommercial
     {
-        public Guid ProfilCommercialID { get; set; }
+        public Guid ID { get; set; }
 
         public CompetenceCommerciale CompetenceCommerciale { get; set; }
 

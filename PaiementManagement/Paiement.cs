@@ -8,7 +8,7 @@ namespace PaiementManagement
 {
     public class Paiement
     {
-        public Guid PaiementID     { get; set; }
+        public Guid ID     { get; set; }
         public DateTime Created { get; set; }
         public StatusPaiement StatusPaiement { get; set; }
         public AccountSender AccountSender { get; set; } 

@@ -8,7 +8,7 @@ namespace PanierManagement
 {
     public class Panier
     {
-        public Guid PanierID { get; set; }
+        public Guid ID { get; set; }
         public float Total { get; set; }
 
         public ListDeProduitsSelectionnes ListDeProduitsSelectionnes { get; set; } 

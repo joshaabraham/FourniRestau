@@ -2,7 +2,7 @@
 {
     public class CapaciteDeProduction
     {
-        public Guid CapaciteDeProductionId { get; set; }
+        public Guid ID { get; set; }
         public string TailleExploitation { get; set; }
 
         public string PaysRegionExploitation { get; set; }

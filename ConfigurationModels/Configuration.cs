@@ -8,7 +8,7 @@ namespace ConfigurationModels
 {
     public class Configuration
     {
-        public Guid ConfigurationId { get; set; }
+        public Guid ID { get; set; }
         public ConfigurationProfil ConfigurationProfil { get; set; }
         public ConfigurationCommerciale ConfigurationCommerciale { get; set; }
         public ConfigurationPagePresentoire ConfigurationPagePresentoire { get; set; }

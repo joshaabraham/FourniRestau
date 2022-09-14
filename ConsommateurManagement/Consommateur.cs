@@ -8,7 +8,7 @@ namespace ConsommateurManagement
 {
     public class Consommateur
     {
-        public Guid ConsommateurID { get; set; }
+        public Guid ID { get; set; }
         public string ConsommateurName { get; set; }
         public StatisticConsommation StatisticConsommation { get;set;}
         public ProduitsRecherches ProduitsRecherches { get; set; }
