@@ -1,18 +1,17 @@
 ﻿{
   "Routes": [
     {
-      "DownstreamPathTemplate": "/products",
+      "DownstreamPathTemplate": "/Abonnement",
       "DownstreamScheme": "https",
       "DownstreamHostAndPorts": [
         {
           "Host": "localhost",
-          "Port": 7109
+          "Port": 7050
         }
       ],
-      "UpstreamPathTemplate": "/manufacture/products",
-      "UpstreamHttpMethod": [ "Get", "Post" ]
+      "UpstreamPathTemplate": "/manufacture/Abonnement",
+      "UpstreamHttpMethod": [ "Get", "Post", "Put", "Delete" ]
     }
-
   ],
     "GlobalConfiguration": {
       "BaseUrl": "https://localhost:7021"
