@@ -11,6 +11,126 @@
       ],
       "UpstreamPathTemplate": "/manufacture/Abonnement",
       "UpstreamHttpMethod": [ "Get", "Post", "Put", "Delete" ]
+    },
+    {
+      "DownstreamPathTemplate": "/Article",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7052
+        }
+      ],
+      "UpstreamPathTemplate": "/manufacture/Article",
+      "UpstreamHttpMethod": [ "Get", "Post", "Put", "Delete" ]
+    },
+    {
+      "DownstreamPathTemplate": "/Categorie",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7054
+        }
+      ],
+      "UpstreamPathTemplate": "/manufacture/Categorie",
+      "UpstreamHttpMethod": [ "Get", "Post", "Put", "Delete" ]
+    },
+    {
+      "DownstreamPathTemplate": "/Configuration",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7056
+        }
+      ],
+      "UpstreamPathTemplate": "/manufacture/Configuration",
+      "UpstreamHttpMethod": [ "Get", "Post", "Put", "Delete" ]
+    },
+    {
+      "DownstreamPathTemplate": "/Consommateur",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7058
+        }
+      ],
+      "UpstreamPathTemplate": "/manufacture/Consommateur",
+      "UpstreamHttpMethod": [ "Get", "Post", "Put", "Delete" ]
+    },
+    {
+      "DownstreamPathTemplate": "/Etablissement",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7060
+        }
+      ],
+      "UpstreamPathTemplate": "/manufacture/Etablissement",
+      "UpstreamHttpMethod": [ "Get", "Post", "Put", "Delete" ]
+    },
+    {
+      "DownstreamPathTemplate": "/Paiement",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7063
+        }
+      ],
+      "UpstreamPathTemplate": "/manufacture/Paiement",
+      "UpstreamHttpMethod": [ "Get", "Post", "Put", "Delete" ]
+    },
+    {
+      "DownstreamPathTemplate": "/Panier",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7065
+        }
+      ],
+      "UpstreamPathTemplate": "/manufacture/Panier",
+      "UpstreamHttpMethod": [ "Get", "Post", "Put", "Delete" ]
+    },
+    {
+      "DownstreamPathTemplate": "/Producteur",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7067
+        }
+      ],
+      "UpstreamPathTemplate": "/manufacture/Producteur",
+      "UpstreamHttpMethod": [ "Get", "Post", "Put", "Delete" ]
+    },
+    {
+      "DownstreamPathTemplate": "/Produit",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7069
+        }
+      ],
+      "UpstreamPathTemplate": "/manufacture/Produit",
+      "UpstreamHttpMethod": [ "Get", "Post", "Put", "Delete" ]
+    },
+    {
+      "DownstreamPathTemplate": "/Shared",
+      "DownstreamScheme": "https",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "localhost",
+          "Port": 7071
+        }
+      ],
+      "UpstreamPathTemplate": "/manufacture/Shared",
+      "UpstreamHttpMethod": [ "Get", "Post", "Put", "Delete" ]
     }
   ],
     "GlobalConfiguration": {
