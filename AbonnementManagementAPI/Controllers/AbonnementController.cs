@@ -56,7 +56,7 @@ namespace AbonnementManagementAPI.Controllers
         {
 
             _context.Abonnements.Add(abonnement);
-            _context.SaveChangesAsync();
+            await _context.SaveChangesAsync();
 
             return Ok(await _context.Abonnements.ToListAsync());
         }
