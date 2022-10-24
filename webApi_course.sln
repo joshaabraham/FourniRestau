@@ -77,9 +77,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SharedManagementApi", "Shar
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CategorieManagement", "CategorieManagement", "{1429293B-A04A-4516-8A6F-A977702010E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CategorieModels", "CategorieModels\CategorieModels.csproj", "{152E251B-811B-4C60-833C-A3F666E4E7A5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CategorieModels", "CategorieModels\CategorieModels.csproj", "{152E251B-811B-4C60-833C-A3F666E4E7A5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CategorieManagement", "CategorieManagement\CategorieManagement.csproj", "{C3AB0281-0669-48BB-A4C1-774B6ACE0EAF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CategorieManagement", "CategorieManagement\CategorieManagement.csproj", "{C3AB0281-0669-48BB-A4C1-774B6ACE0EAF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

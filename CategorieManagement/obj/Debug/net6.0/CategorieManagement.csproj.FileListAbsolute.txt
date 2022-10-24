@@ -61,3 +61,10 @@ C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\Categor
 C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\CategorieManagement\obj\Debug\net6.0\ref\CategorieManagement.dll
 C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\CategorieManagement\bin\Debug\net6.0\CategorieModels.dll
 C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\CategorieManagement\bin\Debug\net6.0\CategorieModels.pdb
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\CategorieManagement\bin\Debug\net6.0\MassTransit.dll
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\CategorieManagement\bin\Debug\net6.0\MassTransit.Abstractions.dll
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\CategorieManagement\bin\Debug\net6.0\MassTransit.AspNetCoreIntegration.dll
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\CategorieManagement\bin\Debug\net6.0\MassTransit.ExtensionsDependencyInjectionIntegration.dll
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\CategorieManagement\bin\Debug\net6.0\MassTransit.RabbitMqTransport.dll
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\CategorieManagement\bin\Debug\net6.0\RabbitMQ.Client.dll
+C:\Users\dupla\OneDrive\Documents\repositories\fourniRestau\FourniRestau\CategorieManagement\bin\Debug\net6.0\System.Text.Json.dll

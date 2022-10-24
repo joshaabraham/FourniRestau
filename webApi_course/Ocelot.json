@@ -9,7 +9,7 @@
           "Port": 7050
         }
       ],
-      "UpstreamPathTemplate": "/manufacture/Abonnement",
+      "UpstreamPathTemplate": "/Abonnement",
       "UpstreamHttpMethod": [ "Get", "Post", "Put", "Delete" ]
     },
     {
@@ -21,7 +21,7 @@
           "Port": 7052
         }
       ],
-      "UpstreamPathTemplate": "/manufacture/Article",
+      "UpstreamPathTemplate": "/Article",
       "UpstreamHttpMethod": [ "Get", "Post", "Put", "Delete" ]
     },
     {
@@ -33,7 +33,7 @@
           "Port": 7054
         }
       ],
-      "UpstreamPathTemplate": "/manufacture/Categorie",
+      "UpstreamPathTemplate": "/Categorie",
       "UpstreamHttpMethod": [ "Get", "Post", "Put", "Delete" ]
     },
     {
@@ -45,7 +45,7 @@
           "Port": 7056
         }
       ],
-      "UpstreamPathTemplate": "/manufacture/Configuration",
+      "UpstreamPathTemplate": "/Configuration",
       "UpstreamHttpMethod": [ "Get", "Post", "Put", "Delete" ]
     },
     {
@@ -57,7 +57,7 @@
           "Port": 7058
         }
       ],
-      "UpstreamPathTemplate": "/manufacture/Consommateur",
+      "UpstreamPathTemplate": "/Consommateur",
       "UpstreamHttpMethod": [ "Get", "Post", "Put", "Delete" ]
     },
     {
@@ -69,7 +69,7 @@
           "Port": 7060
         }
       ],
-      "UpstreamPathTemplate": "/manufacture/Etablissement",
+      "UpstreamPathTemplate": "/Etablissement",
       "UpstreamHttpMethod": [ "Get", "Post", "Put", "Delete" ]
     },
     {
@@ -81,7 +81,7 @@
           "Port": 7063
         }
       ],
-      "UpstreamPathTemplate": "/manufacture/Paiement",
+      "UpstreamPathTemplate": "/Paiement",
       "UpstreamHttpMethod": [ "Get", "Post", "Put", "Delete" ]
     },
     {
@@ -93,7 +93,7 @@
           "Port": 7065
         }
       ],
-      "UpstreamPathTemplate": "/manufacture/Panier",
+      "UpstreamPathTemplate": "/Panier",
       "UpstreamHttpMethod": [ "Get", "Post", "Put", "Delete" ]
     },
     {
@@ -105,7 +105,7 @@
           "Port": 7067
         }
       ],
-      "UpstreamPathTemplate": "/manufacture/Producteur",
+      "UpstreamPathTemplate": "/Producteur",
       "UpstreamHttpMethod": [ "Get", "Post", "Put", "Delete" ]
     },
     {
@@ -117,7 +117,7 @@
           "Port": 7069
         }
       ],
-      "UpstreamPathTemplate": "/manufacture/Produit",
+      "UpstreamPathTemplate": "/Produit",
       "UpstreamHttpMethod": [ "Get", "Post", "Put", "Delete" ]
     },
     {
@@ -129,12 +129,12 @@
           "Port": 7071
         }
       ],
-      "UpstreamPathTemplate": "/manufacture/Shared",
+      "UpstreamPathTemplate": "/Shared",
       "UpstreamHttpMethod": [ "Get", "Post", "Put", "Delete" ]
     }
   ],
-    "GlobalConfiguration": {
-      "BaseUrl": "https://localhost:7021"
-    }
+  "GlobalConfiguration": {
+    "BaseUrl": "https://localhost:7021"
+  }
 
 }

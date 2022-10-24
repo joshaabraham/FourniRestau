@@ -8,7 +8,7 @@ namespace SharedModels.RabbitMqModel
 {
     public class AbonnementCreated
     {
-        public Guid Id { get; set; }
+        public Guid ID { get; set; }
         public string AbonnementName { get; set; }
 
     }

@@ -1,4 +1,5 @@
 using AbonnementManagementAPI.Contexts;
+using MassTransit;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -9,6 +10,17 @@ builder.Services.AddControllers();
 
 builder.Services.AddDbContext<ApplicationDBContext>(options => {
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
+});
+
+
+builder.Services.AddMassTransit(options => {
+    options.UsingRabbitMq((context, cfg) => {
+        cfg.Host(new Uri("rabbitmq://localhost:4001"), h => {
+            h.Username("guest");
+            h.Password("guest");
+        });
+
+    });
 });
 
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle

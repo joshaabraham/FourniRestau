@@ -1,7 +1,9 @@
 ﻿using AbonnementManagementAPI.Contexts;
 using AbonnementModels;
+using MassTransit;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using SharedModels.RabbitMqModel;
 
 namespace AbonnementManagementAPI.Controllers
 {
@@ -9,13 +11,16 @@ namespace AbonnementManagementAPI.Controllers
     [ApiController]
     public class AbonnementController : ControllerBase
     {
+
+        private readonly IPublishEndpoint _publishEndpoint;
         private readonly ApplicationDBContext _context;
 
 
 
-        public AbonnementController(ApplicationDBContext context)
+        public AbonnementController(ApplicationDBContext context, IPublishEndpoint publishEndpoint)
         {
             _context = context ?? throw new ArgumentNullException(nameof(context));
+            _publishEndpoint = publishEndpoint ?? throw new ArgumentNullException(nameof(publishEndpoint));
         }
 
 
@@ -57,6 +62,12 @@ namespace AbonnementManagementAPI.Controllers
 
             _context.Abonnements.Add(abonnement);
             await _context.SaveChangesAsync();
+
+            await _publishEndpoint.Publish<AbonnementCreated>(new AbonnementCreated
+            {
+                ID = abonnement.ID,
+                AbonnementName = abonnement.AbonnementName
+            });
 
             return Ok(await _context.Abonnements.ToListAsync());
         }

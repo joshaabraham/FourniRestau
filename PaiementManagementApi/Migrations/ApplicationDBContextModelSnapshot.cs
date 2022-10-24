@@ -74,6 +74,21 @@ namespace PaiementManagementApi.Migrations
                     b.ToTable("Paiements");
                 });
 
+            modelBuilder.Entity("PaiementModels.Abonnement", b =>
+                {
+                    b.Property<Guid>("ID")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("uniqueidentifier");
+
+                    b.Property<string>("AbonnementName")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("ID");
+
+                    b.ToTable("Abonnements");
+                });
+
             modelBuilder.Entity("PaiementManagement.Paiement", b =>
                 {
                     b.HasOne("PaiementManagement.AccountReceiver", "AccountReceiver")
